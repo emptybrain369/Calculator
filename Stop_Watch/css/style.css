@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    color: wheat;
+    margin-bottom: 30px;
+}
+.sw{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.5);
+}
+.tsw{
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+.btn-all{
+    padding: 10px 20px;
+    background-color: #fe320a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+

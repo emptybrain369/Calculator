@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+h2{
+  padding: 25px 0px;
+  color: green;
+}
+table{
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  height: 400px; 
+  background: #fe320a;
+  margin: 20% 25%;
+  color: white;
+  text-align: center;
+}
+table tr td,th{
+  padding: 5px;
+}
+.btn-t{
+  padding: 10px 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 50px;
+}
